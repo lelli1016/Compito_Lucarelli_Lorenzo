@@ -1,0 +1,16 @@
+//Compito di Lucarelli Lorenzo
+
+include<iostream>
+
+using namespace std;
+
+void main()
+{
+	int a=0;		//Contatore, dichiarata la avriabile a
+
+	for(int i=0; i<10; i++)		//ciclo che arriva fino a 10, implementando la variabile A, e stampa a.
+	{
+		a++;
+		cout<<a;
+	}
+}
